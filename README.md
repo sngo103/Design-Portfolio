@@ -6,4 +6,4 @@ In this repo are my designs from the past. I'm interested in going into UI/UX de
 
 ### Included in this folder:
 1. Posters for Stuyvesant High School student events that were used to advertise from when I was the Grassroots Marketing Director for my Student Union Sophomore and Junior Caucus
-2. Layout design pages for the school yearbook from when I was Layout Head Editor
+2. Layout design pages for the Indicator school yearbook from when I was Layout Head Editor
